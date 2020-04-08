@@ -1,0 +1,18 @@
+/Users/maskaro/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.exe
+/Users/maskaro/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.pdb
+/Users/maskaro/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.csproj.CoreCompileInputs.cache
+/Users/maskaro/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.exe
+/Users/maskaro/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.pdb
+Z:/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.exe
+Z:/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.pdb
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.exe
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.pdb
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.csproj.CoreCompileInputs.cache
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.exe
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.pdb
+K:/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.exe
+K:/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.pdb
+K:/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.csprojResolveAssemblyReference.cache
+K:/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.exe
+K:/Assignment_2_PetrolStation/Assignment_2_PetrolStation/bin/Debug/Assignment_2_PetrolStation.pdb
+/Users/cenkkavsut/Library/Mobile Documents/com~apple~CloudDocs/Projects/Assignment_2_PetrolStation/Assignment_2_PetrolStation/obj/x86/Debug/Assignment_2_PetrolStation.csprojResolveAssemblyReference.cache
